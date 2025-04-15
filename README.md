@@ -12,15 +12,20 @@ Notebook Structure
 This notebook is structured as follows:
 
 1. Exploratory Data Analysis
+
 1.1) Loading the dataset
 1.2) Data cleaning
 1.3) Label distribution
 1.4) Creating Word Cloud
 1.5) Creating word length distribution
+
 2. Data Preparation for Model Building
+
 2.1) Loading the Dataset
 2.2) Data cleaning
+
 3. Trying different Neural Networks
+   
 3.1) Splitting dataset into training/testing and validation
 3.2) One Hot Encoding + model training
 3.3) Count Vectoriser + model training
@@ -36,7 +41,9 @@ This notebook is structured as follows:
 3.9) Bidirectional + GRU + Embedding with Text Sequences
 3.10) Bidirectional + LSTM + Embedding with Text Sequences
 3.11) Convolution+ Embedding with Text Sequences
+
 4. Neural Nets with Custom Word2Vec
+
 4.1) Custom Word2Vec in Cov1D
 4.1.1) Loading the dataset
 4.1.2) Training the Word2Vec
