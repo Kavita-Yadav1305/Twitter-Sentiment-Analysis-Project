@@ -1,5 +1,4 @@
 # Twitter-Sentiment-Analysis-Project
-NLP Pipeline, Word Embeddings, Neural Nets & more
 Objective
 Our main objective is to develop machine learning model that can accurately classify tweets as either positive, negative, or neutral based on their content. Sentiment analysis has a wide range of applications, from understanding public opinion to brand monitoring and beyond. We'll try to perform different EDA, Data Preprocessing, Encoding, Embedding and Neural Network Techniques to execute the project.
 
