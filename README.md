@@ -51,12 +51,14 @@ This notebook is structured as follows:
 
 3.6) ANN + Embedding with Text Sequences
 
-3.7) LSTM + Embedding with Text Sequences
+3.7) RNN + Embedding with Text Sequences
 
-3.8) GRU + Embedding with Text Sequencess
+3.8) LSTM + Embedding with Text Sequences
 
-3.9) Bidirectional + GRU + Embedding with Text Sequences
+3.9) GRU + Embedding with Text Sequencess
 
-3.10) Bidirectional + LSTM + Embedding with Text Sequences
+3.10) Bidirectional + GRU + Embedding with Text Sequences
+
+3.11) Bidirectional + LSTM + Embedding with Text Sequences
 
 3.11) Convolution+ Embedding with Text Sequences
