@@ -61,4 +61,3 @@ This notebook is structured as follows:
 
 3.11) Bidirectional + LSTM + Embedding with Text Sequences
 
-3.11) Convolution+ Embedding with Text Sequences
