@@ -60,18 +60,3 @@ This notebook is structured as follows:
 3.10) Bidirectional + LSTM + Embedding with Text Sequences
 
 3.11) Convolution+ Embedding with Text Sequences
-
-4. Neural Nets with Custom Word2Vec
-
-4.1) Custom Word2Vec in Cov1D
-
-4.1.1) Loading the dataset
-
-4.1.2) Training the Word2Vec
-
-4.1.3) Creating Embedding Matrix
-
-4.1.4) Training the Neural Network
-
-4.2) Custom Word2Vec with Bidirectional + LSTM
-
