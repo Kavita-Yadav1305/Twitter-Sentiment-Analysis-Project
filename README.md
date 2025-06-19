@@ -1,9 +1,9 @@
 # Twitter-Sentiment-Analysis-Project
-Objective
+## Objective
 
 Our main objective is to develop machine learning model that can accurately classify tweets as either positive, negative, or neutral based on their content. Sentiment analysis has a wide range of applications, from understanding public opinion to brand monitoring and beyond. We'll try to perform different EDA, Data Preprocessing, Encoding, Embedding and Neural Network Techniques to execute the project.
 
-Dataset
+## Dataset
 
 We will be using a dataset containing tweets collected from Twitter. The dataset includes text, as well as labels indicating the sentiment associated with each tweet. The labels could be 'positive', 'negative'. Positive denoted by 4 and negative by 0. This dataset is having around 1.6 Million Tweets. The dataset is perfetly balanced i.e it has 800k tweets with positive and 800k tweets of negative sentiments.
 
